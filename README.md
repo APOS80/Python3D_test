@@ -1,4 +1,4 @@
 # Python3D_test
-A projekt for testing 3D in Python3, no api's!
+A projekt for testing simpla 3D in Python3
 
-Continude in Racket! Becous its nicer! =)
+
